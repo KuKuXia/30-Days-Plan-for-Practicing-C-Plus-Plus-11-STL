@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="30_Day_s_Plan"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/C++/30 Day&apos;s Plan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30_Day_s_Plan">
+				<Option output="F:/C++/30 Day&apos;s Plan/cmake-build-debug/30_Day_s_Plan.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++/30 Day&apos;s Plan/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 30_Day_s_Plan"/>
+					<CompileFile command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30_Day_s_Plan/fast">
+				<Option output="F:/C++/30 Day&apos;s Plan/cmake-build-debug/30_Day_s_Plan.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++/30 Day&apos;s Plan/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MySoftware/Mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 30_Day_s_Plan/fast"/>
+					<CompileFile command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/C++/30 Day&apos;s Plan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/C++/30 Day&apos;s Plan/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MySoftware/Mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/C++/30 Day&apos;s Plan/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_bsearch.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_bsearch.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_for_each.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_for_each.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_for_each_n.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_for_each_n.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_qsort.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day2_qsort.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day3_count_and_count_if.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day3_count_and_count_if.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day3_mismatch.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day3_mismatch.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day4_find_and_find_if_and_find_if_not.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day4_find_and_find_if_and_find_if_not.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day4_find_end.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/day4_find_end.h">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/main.cpp">
+			<Option target="30_Day_s_Plan"/>
+		</Unit>
+		<Unit filename="F:/C++/30 Day&apos;s Plan/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
