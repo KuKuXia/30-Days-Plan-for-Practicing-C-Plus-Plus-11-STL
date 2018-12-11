@@ -9,6 +9,8 @@
 #include "day3_mismatch.h"
 #include "day4_find_and_find_if_and_find_if_not.h"
 #include "day4_find_end.h"
+#include "day5_find_first_of.h"
+#include "day5_adjacent_find.h"
 using namespace std;
 
 
@@ -25,6 +27,8 @@ int main() {
     demo_mismatch::stl_mismatch();
     demo_find_and_find_if_and_find_if_not::stl_find_and_find_if_and_find_if_not();
     demo_find_end::stl_find_end();
+    demo_find_first_of::stl_find_first_of();
+    demo_adjacent_find::std_adjacent_find();
     return 0;
 }
 
