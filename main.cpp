@@ -11,6 +11,12 @@
 #include "day4_find_end.h"
 #include "day5_find_first_of.h"
 #include "day5_adjacent_find.h"
+#include "day6_search.h"
+#include "day6_search_n.h"
+
+
+
+
 using namespace std;
 
 
@@ -29,6 +35,8 @@ int main() {
     demo_find_end::stl_find_end();
     demo_find_first_of::stl_find_first_of();
     demo_adjacent_find::std_adjacent_find();
+    demo_search::stl_search();
+    demo_search_n::stl_search_n();
     return 0;
 }
 
