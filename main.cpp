@@ -13,8 +13,8 @@
 #include "day5_adjacent_find.h"
 #include "day6_search.h"
 #include "day6_search_n.h"
-
-
+#include "day7_copy_and_copy_if.h"
+#include "day7_copy_n_and_copy_backward.h"
 
 
 using namespace std;
@@ -37,6 +37,8 @@ int main() {
     demo_adjacent_find::std_adjacent_find();
     demo_search::stl_search();
     demo_search_n::stl_search_n();
+    demo_copy_and_copy_if::stl_copy_and_copy_if();
+    demo_copy_n_and_copy_backward::stl_copy_n_and_copy_backward();
     return 0;
 }
 
