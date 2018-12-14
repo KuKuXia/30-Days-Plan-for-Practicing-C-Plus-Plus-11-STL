@@ -15,8 +15,8 @@
 #include "day6_search_n.h"
 #include "day7_copy_and_copy_if.h"
 #include "day7_copy_n_and_copy_backward.h"
-
-
+#include "day8_move_and_move_backward.h"
+#include "day8_fill_and_fill_n.h"
 using namespace std;
 
 
@@ -39,6 +39,8 @@ int main() {
     demo_search_n::stl_search_n();
     demo_copy_and_copy_if::stl_copy_and_copy_if();
     demo_copy_n_and_copy_backward::stl_copy_n_and_copy_backward();
+    demo_move_and_move_backward::stl_move_and_move_backward();
+    demo_fill_and_fill_n::stl_fill_and_fill_n();
     return 0;
 }
 
