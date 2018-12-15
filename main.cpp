@@ -17,6 +17,12 @@
 #include "day7_copy_n_and_copy_backward.h"
 #include "day8_move_and_move_backward.h"
 #include "day8_fill_and_fill_n.h"
+#include "day9_transform.h"
+#include "day9_generate_and_generate_n.h"
+
+
+
+
 using namespace std;
 
 
@@ -41,6 +47,14 @@ int main() {
     demo_copy_n_and_copy_backward::stl_copy_n_and_copy_backward();
     demo_move_and_move_backward::stl_move_and_move_backward();
     demo_fill_and_fill_n::stl_fill_and_fill_n();
+    demo_transform::stl_transform();
+    demo_generate_and_generate_n::stl_generate_and_generate_n();
+
+
+
+
+
+
     return 0;
 }
 
