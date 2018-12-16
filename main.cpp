@@ -19,8 +19,8 @@
 #include "day8_fill_and_fill_n.h"
 #include "day9_transform.h"
 #include "day9_generate_and_generate_n.h"
-
-
+#include "day10_move_and_move_if.h"
+#include "day10_remove_copy_and_remove_copy_if.h"
 
 
 using namespace std;
@@ -49,8 +49,8 @@ int main() {
     demo_fill_and_fill_n::stl_fill_and_fill_n();
     demo_transform::stl_transform();
     demo_generate_and_generate_n::stl_generate_and_generate_n();
-
-
+    demo_move_and_move_if::stl_move_and_move_if();
+    demo_remove_copy_and_remove_copy_if::stl_remove_copy_and_remove_copy_if();
 
 
 
