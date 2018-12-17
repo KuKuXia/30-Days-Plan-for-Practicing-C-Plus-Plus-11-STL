@@ -22,7 +22,7 @@
 #include "day10_move_and_move_if.h"
 #include "day10_remove_copy_and_remove_copy_if.h"
 #include "day11_replace_and_replace_if.h"
-
+#include "day11_replace_copy_and_replace_copy_if.h"
 using namespace std;
 
 
@@ -52,12 +52,7 @@ int main() {
     demo_move_and_move_if::stl_move_and_move_if();
     demo_remove_copy_and_remove_copy_if::stl_remove_copy_and_remove_copy_if();
     demo_replace_and_replace_if::stl_replace_and_replace_if();
-
-
-
-
-
-
+    demo_replace_copy_and_replace_copy_if::stl_replace_copy_and_replace_copy_if();
 
     return 0;
 }
@@ -65,7 +60,7 @@ int main() {
 
 template<typename T>
 void printData(const T &data) {
-    for_each(data.begin(), data.end(),[](auto const &a){ cout << a << " ";});
+    for_each(data.begin(), data.end(), [](auto const &a) { cout << a << " "; });
     cout << endl;
 
 
