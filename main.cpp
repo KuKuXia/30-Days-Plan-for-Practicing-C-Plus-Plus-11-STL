@@ -21,7 +21,7 @@
 #include "day9_generate_and_generate_n.h"
 #include "day10_move_and_move_if.h"
 #include "day10_remove_copy_and_remove_copy_if.h"
-
+#include "day11_replace_and_replace_if.h"
 
 using namespace std;
 
@@ -51,6 +51,10 @@ int main() {
     demo_generate_and_generate_n::stl_generate_and_generate_n();
     demo_move_and_move_if::stl_move_and_move_if();
     demo_remove_copy_and_remove_copy_if::stl_remove_copy_and_remove_copy_if();
+    demo_replace_and_replace_if::stl_replace_and_replace_if();
+
+
+
 
 
 
