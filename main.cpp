@@ -23,6 +23,7 @@
 #include "day10_remove_copy_and_remove_copy_if.h"
 #include "day11_replace_and_replace_if.h"
 #include "day11_replace_copy_and_replace_copy_if.h"
+#include "day12_swap_and_swap_ranges_and_iter_swap.h"
 using namespace std;
 
 
@@ -53,7 +54,7 @@ int main() {
     demo_remove_copy_and_remove_copy_if::stl_remove_copy_and_remove_copy_if();
     demo_replace_and_replace_if::stl_replace_and_replace_if();
     demo_replace_copy_and_replace_copy_if::stl_replace_copy_and_replace_copy_if();
-
+    demo_swap_and_swap_ranges_and_iter_swap::stl_swap_and_swap_ranges_and_iter_swap();
     return 0;
 }
 
