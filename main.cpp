@@ -24,6 +24,10 @@
 #include "day11_replace_and_replace_if.h"
 #include "day11_replace_copy_and_replace_copy_if.h"
 #include "day12_swap_and_swap_ranges_and_iter_swap.h"
+#include "day13_reverse_and_reverse_copy.h"
+
+
+
 using namespace std;
 
 
@@ -55,6 +59,11 @@ int main() {
     demo_replace_and_replace_if::stl_replace_and_replace_if();
     demo_replace_copy_and_replace_copy_if::stl_replace_copy_and_replace_copy_if();
     demo_swap_and_swap_ranges_and_iter_swap::stl_swap_and_swap_ranges_and_iter_swap();
+    demo_reverse_and_reverse_copy::stl_reverse_and_reverse_copy();
+
+
+
+
     return 0;
 }
 
@@ -63,7 +72,5 @@ template<typename T>
 void printData(const T &data) {
     for_each(data.begin(), data.end(), [](auto const &a) { cout << a << " "; });
     cout << endl;
-
-
 }
 
