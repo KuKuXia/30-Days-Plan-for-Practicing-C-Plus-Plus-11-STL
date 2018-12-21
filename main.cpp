@@ -26,7 +26,7 @@
 #include "day12_swap_and_swap_ranges_and_iter_swap.h"
 #include "day13_reverse_and_reverse_copy.h"
 #include "day14_rotate_and_rotate_copy.h"
-
+#include "day15_shuffle_and_sample.h"
 
 using namespace std;
 
@@ -61,7 +61,7 @@ int main() {
     demo_swap_and_swap_ranges_and_iter_swap::stl_swap_and_swap_ranges_and_iter_swap();
     demo_reverse_and_reverse_copy::stl_reverse_and_reverse_copy();
     demo_rotate_and_rotate_copy::stl_rotate_and_rotate_copy();
-
+    demo_shuffle_and_sample::stl_shuffle_and_sample();
 
 
     return 0;
