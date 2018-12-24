@@ -29,6 +29,7 @@
 #include "day15_shuffle_and_sample.h"
 #include "day16_unqiue_and_unique_copy.h"
 #include "day17_is_sorted_and_is_sorted_until.h"
+#include "day18_sort_and_partial_sort_and_partial_sort_copy.h"
 using namespace std;
 
 
@@ -65,7 +66,7 @@ int main() {
     demo_shuffle_and_sample::stl_shuffle_and_sample();
     demo_unique_and_unique_copy::stl_unique_and_unique_copy();
     demo_is_sorted_and_is_sorted_until::stl_is_sorted_and_is_sorted_until();
-
+    demo_sort_and_partial_sort_and_partial_sort_copy::stl_sort_and_partial_sort_and_partial_sort_copy();
 
     return 0;
 }
