@@ -31,6 +31,8 @@
 #include "day17_is_sorted_and_is_sorted_until.h"
 #include "day18_sort_and_partial_sort_and_partial_sort_copy.h"
 #include "day19_stable_sort_and_nth_element.h"
+#include "day20_max_and_max_element.h"
+#include "day20_min_and_min_element.h"
 using namespace std;
 
 
@@ -69,7 +71,11 @@ int main() {
     demo_is_sorted_and_is_sorted_until::stl_is_sorted_and_is_sorted_until();
     demo_sort_and_partial_sort_and_partial_sort_copy::stl_sort_and_partial_sort_and_partial_sort_copy();
     demo_stable_and_nth_element::stl_stable_and_nth_element();
+    demo_max_and_max_lelment::stl_max_and_max_element();
+    demo_min_and_min_element::stl_min_and_min_element();
     return 0;
+
+
 }
 
 
