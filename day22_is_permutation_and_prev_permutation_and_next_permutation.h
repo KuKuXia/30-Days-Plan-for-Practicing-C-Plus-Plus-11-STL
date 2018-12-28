@@ -1,0 +1,10 @@
+//
+// Created by LongXiaJun on 2018/12/28 0028.
+//
+
+#ifndef INC_30_DAY_S_PLAN_DAY22_IS_PERMUTATION_AND_PRE_PERMUTATION_AND_NEXT_PERMUTATION_H
+#define INC_30_DAY_S_PLAN_DAY22_IS_PERMUTATION_AND_PRE_PERMUTATION_AND_NEXT_PERMUTATION_H
+namespace demo_is_permutation_and_prev_permutation_and_next_permutation {
+    void stl_is_permutation_and_prev_permutation_and_next_permutation();
+}
+#endif //INC_30_DAY_S_PLAN_DAY22_IS_PERMUTATION_AND_PRE_PERMUTATION_AND_NEXT_PERMUTATION_H

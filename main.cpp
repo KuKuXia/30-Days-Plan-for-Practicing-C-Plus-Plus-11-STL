@@ -34,6 +34,8 @@
 #include "day20_max_and_max_element.h"
 #include "day20_min_and_min_element.h"
 #include "day21_minmax_and_minmax_element.h"
+#include "day22_is_permutation_and_prev_permutation_and_next_permutation.h"
+#include "day22_lower_bound_and_upper_bound.h"
 using namespace std;
 
 
@@ -75,6 +77,8 @@ int main() {
     demo_max_and_max_lelment::stl_max_and_max_element();
     demo_min_and_min_element::stl_min_and_min_element();
     demo_minmax_and_minmax_element::stl_minmax_and_minmax_element();
+    demo_is_permutation_and_prev_permutation_and_next_permutation::stl_is_permutation_and_prev_permutation_and_next_permutation();
+    demo_lower_bound_and_upper_bound::stl_lower_bound_and_upper_bound();
     return 0;
 
 
