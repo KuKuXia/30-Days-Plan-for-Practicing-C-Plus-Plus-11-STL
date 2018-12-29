@@ -36,6 +36,8 @@
 #include "day21_minmax_and_minmax_element.h"
 #include "day22_is_permutation_and_prev_permutation_and_next_permutation.h"
 #include "day22_lower_bound_and_upper_bound.h"
+#include "day23_binary_search_and_equal_range.h"
+#include "day23_equal_and_lexicographical_compare.h"
 using namespace std;
 
 
@@ -79,6 +81,8 @@ int main() {
     demo_minmax_and_minmax_element::stl_minmax_and_minmax_element();
     demo_is_permutation_and_prev_permutation_and_next_permutation::stl_is_permutation_and_prev_permutation_and_next_permutation();
     demo_lower_bound_and_upper_bound::stl_lower_bound_and_upper_bound();
+    demo_binary_search_and_equal_range::stl_binary_search_and_equal_range();
+    demo_equal_and_lexicographical_compare::stl_equal_and_lexicographical_compare();
     return 0;
 
 
