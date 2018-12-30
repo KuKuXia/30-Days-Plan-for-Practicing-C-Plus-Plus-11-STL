@@ -38,6 +38,8 @@
 #include "day22_lower_bound_and_upper_bound.h"
 #include "day23_binary_search_and_equal_range.h"
 #include "day23_equal_and_lexicographical_compare.h"
+#include "day24_iota_and_accumulate.h"
+#include "day24_inner_product_and_adjacent_difference.h"
 using namespace std;
 
 
@@ -83,6 +85,8 @@ int main() {
     demo_lower_bound_and_upper_bound::stl_lower_bound_and_upper_bound();
     demo_binary_search_and_equal_range::stl_binary_search_and_equal_range();
     demo_equal_and_lexicographical_compare::stl_equal_and_lexicographical_compare();
+    demo_iota_and_accumulate::stl_iota_and_accumulate();
+    demo_inner_product_and_adjacent_difference::stl_inner_product_and_adjacent_difference();
     return 0;
 
 
