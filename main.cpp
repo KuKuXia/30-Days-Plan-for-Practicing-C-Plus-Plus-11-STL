@@ -40,6 +40,7 @@
 #include "day23_equal_and_lexicographical_compare.h"
 #include "day24_iota_and_accumulate.h"
 #include "day24_inner_product_and_adjacent_difference.h"
+#include "day25_partial_sum_and_includes.h"
 using namespace std;
 
 
@@ -87,6 +88,7 @@ int main() {
     demo_equal_and_lexicographical_compare::stl_equal_and_lexicographical_compare();
     demo_iota_and_accumulate::stl_iota_and_accumulate();
     demo_inner_product_and_adjacent_difference::stl_inner_product_and_adjacent_difference();
+    demo_partial_sum_and_includes::stl_partial_sum_and_includes();
     return 0;
 
 
