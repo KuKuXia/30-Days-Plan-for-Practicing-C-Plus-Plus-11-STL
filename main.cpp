@@ -41,6 +41,8 @@
 #include "day24_iota_and_accumulate.h"
 #include "day24_inner_product_and_adjacent_difference.h"
 #include "day25_partial_sum_and_includes.h"
+#include "day26_is_partitioned_and_partition.h"
+#include "day26_partition_copy_and_stable_partition_and_partition_point.h"
 using namespace std;
 
 
@@ -89,6 +91,8 @@ int main() {
     demo_iota_and_accumulate::stl_iota_and_accumulate();
     demo_inner_product_and_adjacent_difference::stl_inner_product_and_adjacent_difference();
     demo_partial_sum_and_includes::stl_partial_sum_and_includes();
+    demo_is_partitioned_and_partition::stl_is_partitioned_and_partition();
+    demo_partition_copy_and_stable_partition_and_partition_point::partition_copy_and_stable_partition_and_partition_point();
     return 0;
 
 
