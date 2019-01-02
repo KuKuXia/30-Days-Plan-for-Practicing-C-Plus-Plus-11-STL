@@ -83,6 +83,7 @@ namespace demo_partition_copy_and_stable_partition_and_partition_point {
         std::copy(v1.begin(), p, std::ostream_iterator<int>(std::cout, " "));
         std::cout << "\nAfter partition: ";
         std::copy(p, v1.end(), std::ostream_iterator<int>(std::cout, " "));
+        std::cout << '\n';
     }
 
 }
