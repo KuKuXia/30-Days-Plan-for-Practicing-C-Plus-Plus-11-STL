@@ -45,6 +45,8 @@
 #include "day26_partition_copy_and_stable_partition_and_partition_point.h"
 #include "day27_set_difference_and_set_intersection.h"
 #include "day27_set_union_and_set_symmetric_difference.h"
+#include "day28_merge_and_inplace_merge.h"
+#include "day28_is_heap_and_is_heap_until.h"
 using namespace std;
 
 
@@ -97,6 +99,8 @@ int main() {
     demo_partition_copy_and_stable_partition_and_partition_point::partition_copy_and_stable_partition_and_partition_point();
     demo_set_difference_and_set_intersection::stl_set_difference_and_set_intersection();
     demo_set_union_and_set_symmetric_difference::stl_set_union_and_set_symmetric_difference();
+    demo_merge_and_inplace_merge::stl_merge_and_inplace_merge();
+    demo_is_heap_and_is_heap_until::stl_is_heap_and_is_heap_until();
     return 0;
 
 
