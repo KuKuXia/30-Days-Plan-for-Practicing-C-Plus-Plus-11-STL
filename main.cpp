@@ -47,6 +47,8 @@
 #include "day27_set_union_and_set_symmetric_difference.h"
 #include "day28_merge_and_inplace_merge.h"
 #include "day28_is_heap_and_is_heap_until.h"
+#include "day29_make_heap_and_sort_heap.h"
+#include "day29_pop_heap_and_push_heap.h"
 using namespace std;
 
 
@@ -101,6 +103,8 @@ int main() {
     demo_set_union_and_set_symmetric_difference::stl_set_union_and_set_symmetric_difference();
     demo_merge_and_inplace_merge::stl_merge_and_inplace_merge();
     demo_is_heap_and_is_heap_until::stl_is_heap_and_is_heap_until();
+    demo_make_heap_and_sort_heap::stl_make_heap_and_sort_heap();
+    demo_pop_heap_and_push_heap::stl_pop_heap_and_push_heap();
     return 0;
 
 
