@@ -49,6 +49,8 @@
 #include "day28_is_heap_and_is_heap_until.h"
 #include "day29_make_heap_and_sort_heap.h"
 #include "day29_pop_heap_and_push_heap.h"
+#include "day30_uninitialized_copy_and_uninitialized_fill.h"
+#include "day30_uninitialized_copy_n_and_uninitialized_fill_n.h"
 using namespace std;
 
 
@@ -105,6 +107,8 @@ int main() {
     demo_is_heap_and_is_heap_until::stl_is_heap_and_is_heap_until();
     demo_make_heap_and_sort_heap::stl_make_heap_and_sort_heap();
     demo_pop_heap_and_push_heap::stl_pop_heap_and_push_heap();
+    demo_uninitialized_copy_and_uninitialized_fill::stl_uninitialized_copy_and_uninitialized_fill();
+    demo_uninitialized_copy_n_and_uninitialized_fill_n::stl_uninitialized_copy_n_and_uninitialized_fill_n();
     return 0;
 
 
